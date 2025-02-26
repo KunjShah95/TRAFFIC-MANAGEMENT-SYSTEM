@@ -1,15 +1,15 @@
 === Traffic Simulation Report ===
 Simulation Duration: 1 units
 Total Vehicles Processed: 6
- - Private Vehicles: 2
- - Public Transport: 4
-Total Passengers Carried: 183
+ - Private Vehicles: 3
+ - Public Transport: 3
+Total Passengers Carried: 97
 
 Event Log:
 Time 0: Added Private - N/A
 Time 0: Added Bus - Bus-202
+Time 0: Added Private - N/A
 Time 0: Added Tram - Tram-A1
 Time 0: Added Private - N/A
 Time 0: Added Tram - Tram-A1
-Time 0: Added Bus - Bus-202
 Time 0: Processed Private - N/A
